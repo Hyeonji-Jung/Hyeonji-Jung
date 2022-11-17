@@ -3,7 +3,7 @@
 
 ### 🙋🏻‍♀️ Who I am is ...
 - 아주대학교 소프트웨어학과 학생
-- 42 Seoul 카뎃 (21.05 ~)
+- 42 Seoul 카뎃 (21.05 ~ 22.07)
 - 개발(공부)을 하고 있지만, 기획과 Product Management에도 관심이 많습니다.
 - 응애 나 애기 개발자 🍼
 
@@ -26,7 +26,7 @@
 ### 😎 My carrer:
 - 네이버 edwith 부스트 코딩뉴비챌린지 (20.07 ~ 20.08)
 - 42 Seoul La piscine(선발과정) (21.02 ~ 21.03)
-- 42 Seoul 본과정 (21.05 ~)
+- 42 Seoul 본과정 (21.05 ~ 22.07)
 
 ###  📫 How to reach me:
 - Github: https://github.com/Hyeonji-Jung
