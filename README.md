@@ -1,5 +1,4 @@
-### _Hello world 👋_
-<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonji-Jung&show_icons=true&theme=radical)
 
 ### 🙋🏻‍♀️ Who I am is ...
 - 아주대학교 소프트웨어학과 학생
