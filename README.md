@@ -1,8 +1,7 @@
 <div align=center>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hyeonji%20Jung&fontSize=50" />
 
-### 🙋🏻‍♀️ Who am I is 🙋🏻‍♀️
+### 🙋🏻‍♀️ It's me 🙋🏻‍♀️
 Backend Developer ⌗ <br>
 I'm always growing ❤️‍🔥
 
@@ -52,7 +51,7 @@ I'm always growing ❤️‍🔥
   </tr>
 </table>
 
-###  📫 How to reach me:
+###  📫 How to reach me 📫
 <p align="center">
   <a href="https://velog.io/@welloff_jj"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="https://www.instagram.com/_well_off_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
