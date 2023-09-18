@@ -49,6 +49,10 @@ I'm always growing ❤️‍🔥
     <td>1인가구 식료품 재고 관리 및 공유 서비스 집에서 밥 먹장!</td>
     <td>(23.03 ~ 23.06)</td>
   </tr>
+  <tr>
+    <td>연말연시 음악 및 메시지 공유 서비스 Dear New Year</td>
+    <td>(23.09 ~ ongoing)</td>
+  </tr>
 </table>
 
 ###  📫 How to reach me 📫
