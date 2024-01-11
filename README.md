@@ -26,10 +26,6 @@ I'm always growing ❤️‍🔥
 ### 😎 Experiences 😎
 <table>
   <tr>
-    <td>네이버 edwith 부스트 코딩뉴비챌린지</td>
-    <td>(20.07 ~ 20.08)</td>
-  </tr>
-  <tr>
     <td>42 Seoul La piscine (선발과정)</td>
     <td>(21.02 ~ 21.03)</td>
   </tr>
