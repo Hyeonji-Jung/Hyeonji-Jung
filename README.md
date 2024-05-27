@@ -10,7 +10,6 @@ I'm always growing ❤️‍🔥
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
@@ -46,15 +45,18 @@ I'm always growing ❤️‍🔥
     <td>(23.03 ~ 23.06)</td>
   </tr>
   <tr>
+    <td>삼성 청년 SW 아카데미</td>
+    <td>(24.01 ~ ongoing)</td>
+  </tr>
+  <tr>
     <td>연말연시 음악 및 메시지 공유 서비스 Dear New Year</td>
-    <td>(23.09 ~ ongoing)</td>
+    <td>(24.03 ~ 24.05)</td>
   </tr>
 </table>
 
 ###  📫 How to reach me 📫
 <p align="center">
   <a href="https://velog.io/@welloff_jj"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/_well_off_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:welloff.jj@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 </br>
